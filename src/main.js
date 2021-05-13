@@ -5,3 +5,9 @@ import update from './update.js';
 console.log('if you have sourcemaps enabled in your devtools, click on main.js:5 -->');
 
 update();
+
+function sum(a, b){
+  return a+b
+}
+
+export { sum };

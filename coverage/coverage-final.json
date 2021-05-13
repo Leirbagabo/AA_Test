@@ -1,0 +1,2 @@
+{"/workspace/AA_Test/src/test.mjs": {"path":"/workspace/AA_Test/src/test.mjs","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":19}}},"fnMap":{"0":{"name":"square","decl":{"start":{"line":1,"column":9},"end":{"line":1,"column":15}},"loc":{"start":{"line":1,"column":21},"end":{"line":3,"column":4}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"cd40370668fd595371097f0c053d67baddf51612"}
+}
